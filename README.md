@@ -44,4 +44,3 @@ This project provided a comprehensive understanding of digital literacy and its 
 * HackerRank
 * Google Forms
 * National Cyber Crime Portal (https://cybercrime.gov.in)
-# digital-literacy-project
