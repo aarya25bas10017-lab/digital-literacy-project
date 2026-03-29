@@ -1,1 +1,5 @@
-
+Title: Phishing Attack on a College Student
+Phishing is a common type of cybercrime in which attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trusted source. It usually occurs through fake emails, messages, or websites that closely resemble legitimate ones.
+In a typical scenario, a college student receives an email that appears to be from their bank or university. The email may claim that there is an urgent issue with their account and asks them to click on a link to verify their details. When the student clicks the link, they are redirected to a fake website designed to look like the original one. The student unknowingly enters their login credentials or banking information.
+Once the attacker obtains this information, they can access the student’s account and misuse it for financial fraud or identity theft. Phishing attacks often target students and young users who may not be fully aware of such scams.
+The consequences of phishing include financial loss, unauthorized access to personal accounts, and loss of sensitive data. Therefore, awareness and caution are essential to prevent such cybercrimes.
