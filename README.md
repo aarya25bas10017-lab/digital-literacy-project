@@ -1,9 +1,11 @@
 # Digital Literacy Project – CSE0001
+
 ## Student Details
 Name: Aarya
 Registration Number: 25BAS10017
 Branch: Aerospace Engineering
 Year: First Year
+
 ## Project Overview
 This project has been completed as part of the CSE0001 Digital Literacy course. The objective of this assignment is to develop essential digital skills required for academic and professional growth.
 As a Student Digital Ambassador, the project focuses on building a Digital Literacy Portfolio that demonstrates the ability to use digital tools effectively, maintain a professional online presence, communicate responsibly, and stay aware of cybersecurity practices.
