@@ -34,7 +34,7 @@ Two professional emails were drafted, and a checklist outlining responsible soci
 * Task 5: Cybercrime Awareness
 A case study on cybercrime was developed along with a checklist of preventive measures for safe online practices.
 ## Important Links
-* GitHub Profile: (Add your link)
+* GitHub Profile: (https://github.com/aarya25bas10017-lab)
 * LinkedIn Profile: (www.linkedin.com/in/aarya-0355013ba)
 * Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSc3y2MwUbVziFOtumMhl5LMP5_vA1nJ80Sj6O9-ivMg2UnHXw/viewform?usp=header)
 ## Conclusion
