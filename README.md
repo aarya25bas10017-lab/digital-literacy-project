@@ -35,9 +35,7 @@ Two professional emails were drafted, and a checklist outlining responsible soci
 A case study on cybercrime was developed along with a checklist of preventive measures for safe online practices.
 ## Important Links
 * GitHub Profile: (Add your link)
-* LinkedIn Profile: (www.linkedin.com/in/
-Vanity URL name
-)
+* LinkedIn Profile: (www.linkedin.com/in/aarya-0355013ba)
 * Google Form Link: (https://docs.google.com/forms/d/e/1FAIpQLSc3y2MwUbVziFOtumMhl5LMP5_vA1nJ80Sj6O9-ivMg2UnHXw/viewform?usp=header)
 ## Conclusion
 This project provided a comprehensive understanding of digital literacy and its importance in both academic and professional environments. It helped in developing practical skills such as creating digital content, building an online portfolio, communicating professionally, and understanding cybersecurity risks.
