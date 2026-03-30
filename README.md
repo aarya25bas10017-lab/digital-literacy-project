@@ -45,4 +45,6 @@ This project provided a comprehensive understanding of digital literacy and its 
 * LinkedIn
 * HackerRank
 * Google Forms
+* kaggle
+* google sheets
 * National Cyber Crime Portal (https://cybercrime.gov.in)
